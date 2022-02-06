@@ -31,6 +31,7 @@
 	<img src="https://img.shields.io/badge/GoogleColab-F9AB00?style=flat-square&logo=GoogleColab&logoColor=white"/>
 
 <br />
+<br />
 
 ### <div align=center> :keyboard: Developer : Hyun Ji Kim, Tae Won Yoo, Hyun Jin Jeon :keyboard: </div>
 #### <div align=center> Hyun Ji Kim </div>
