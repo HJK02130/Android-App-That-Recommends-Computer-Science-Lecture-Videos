@@ -1,4 +1,4 @@
-# <div align=center> Computer Science 학습을 위한  YouTube 강의 영상 추천 시스템 </div>
+# <div align=center> Computer Science 학습을 위한 <br /> YouTube 강의 영상 추천 시스템 </div>
 ### <div align=center> YouTube lecture video recommendation system for computer science learning
  </div>
 
