@@ -34,9 +34,7 @@
 <br />
 
 ### <div align=center> :keyboard: Developer : Hyun Ji Kim, Tae Won Yoo, Hyun Jin Jeon :keyboard: </div>
-#### <div align=center> Hyun Ji Kim </div>
-<div align=center>
-	<a href="mailto:hjk02130@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> </a> 
+#### <div align=center> Hyun Ji Kim <a href="mailto:hjk02130@gmail.com"> <img src ="https://img.shields.io/badge/Gmail-EA4335.svg?&style=flat-squar&logo=Gmail&logoColor=white"/> </a> 
 	<a href = "https://github.com/HJK02130"> <img src ="https://img.shields.io/badge/Github-181717.svg?&style=flat-squar&logo=Github&logoColor=white"/> </a> </div>
 
 # Android-App-That-Recommends-Computer-Science-Lecture-Videos
